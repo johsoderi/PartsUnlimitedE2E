@@ -5,6 +5,7 @@ namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
     {
+        // Just a test commit
         [Key]
         public int CartItemId { get; set; }
 
